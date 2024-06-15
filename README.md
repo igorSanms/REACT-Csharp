@@ -16,8 +16,8 @@ http://localhost:5071/api/mercadorias
 ![Tela Back-end](./src/assets/image/PrecoAtualizado.png)
 
 ` Excluindo Mercadorias `
-![Tela Front-end](./src/assets/image//RemovendoMercadoria.png.png)
-![Tela Back-end](./src/assets/image//MercadoriaRemovida.png.png)
+![Tela Front-end](./src/assets/image//RemovendoMercadoria.png)
+![Tela Back-end](./src/assets/image//MercadoriaRemovida.png)
 
 # Como utilizar
 **Para começar, siga os passos abaixo:**
