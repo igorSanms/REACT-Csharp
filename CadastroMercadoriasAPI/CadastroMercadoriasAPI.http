@@ -1,0 +1,6 @@
+@CadastroMercadoriasAPI_HostAddress = http://localhost:5071
+
+GET {{CadastroMercadoriasAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
