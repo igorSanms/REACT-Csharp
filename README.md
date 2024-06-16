@@ -72,15 +72,16 @@ Ganhar experiência na criação de uma aplicação web utilizando React e C#, r
 ```plaintext
 src/
 ├── components/
-│ ├── Header.tsx
-│ ├── Table.tsx
-│ └── Modal.tsx
+│ ├── Header.js
+│ ├── Modal.js
+│ └── Table.js
 ├── styles/
 │ ├── App.css
 │ └── index.css
-├── App.tsx
-├── index.tsx
-└── App.test.tsx
+├── Api.js
+├── App.js
+├── index.js
+└── App.test.js
 ```
 ### Back-end
 ```plaintext
