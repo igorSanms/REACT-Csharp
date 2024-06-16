@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroMercadoriasAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32209b03fa3a78eba33afa39af8d5df100bcacf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroMercadoriasAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroMercadoriasAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -206,3 +206,4 @@ C:\Users\igors\OneDrive\Área de Trabalho\TB4\cadastro-mercadorias\CadastroMerca
 C:\Users\igors\OneDrive\Área de Trabalho\TB4\cadastro-mercadorias\CadastroMercadoriasAPI\obj\Debug\net8.0\CadastroMercadoriasAPI.pdb
 C:\Users\igors\OneDrive\Área de Trabalho\TB4\cadastro-mercadorias\CadastroMercadoriasAPI\obj\Debug\net8.0\CadastroMercadoriasAPI.genruntimeconfig.cache
 C:\Users\igors\OneDrive\Área de Trabalho\TB4\cadastro-mercadorias\CadastroMercadoriasAPI\obj\Debug\net8.0\ref\CadastroMercadoriasAPI.dll
+C:\Users\igors\OneDrive\Área de Trabalho\TB4\cadastro-mercadorias\CadastroMercadoriasAPI\obj\Debug\net8.0\CadastroMercadoriasAPI.sourcelink.json
