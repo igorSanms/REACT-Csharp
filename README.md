@@ -39,24 +39,24 @@ Ganhar experiência na criação de uma aplicação web utilizando React e C#, r
 
 ## Imagens da Aplicação
 - **Adicionando Itens:**
-- ![Front-end](./src/assets/image/0.png)
-- ![Front-end](./src/assets/image/1.png)
-- ![Front-end](./src/assets/image/2.png)
-- ![Resposta-API](./src/assets/image/3.png)
+![Front-end](./src/assets/image/0.png)
+![Front-end](./src/assets/image/1.png)
+![Front-end](./src/assets/image/2.png)
+![Resposta-API](./src/assets/image/3.png)
 - **Atualizando Itens:**
-- ![Front-end](./src/assets/image/4.png)
-- ![Front-end](./src/assets/image/5.png)
-- ![Front-end](./src/assets/image/6.png)
-- ![Resposta-API](./src/assets/image/7.png)
+![Front-end](./src/assets/image/4.png)
+![Front-end](./src/assets/image/5.png)
+![Front-end](./src/assets/image/6.png)
+![Resposta-API](./src/assets/image/7.png)
 - **Adicionando Mais Itens:**
-- ![Front-end](./src/assets/image/8.png)
-- ![Front-end](./src/assets/image/9.png)
-- ![Front-end](./src/assets/image/10.png)
-- ![Resposta-API](./src/assets/image/11.png)
+![Front-end](./src/assets/image/8.png)
+![Front-end](./src/assets/image/9.png)
+![Front-end](./src/assets/image/10.png)
+![Resposta-API](./src/assets/image/11.png)
 - **Removendo Itens:**
-- ![Front-end](./src/assets/image/12.png)
-- ![Front-end](./src/assets/image/13.png)
-- ![Resposta-API](./src/assets/image/14.png)
+![Front-end](./src/assets/image/12.png)
+![Front-end](./src/assets/image/13.png)
+![Resposta-API](./src/assets/image/14.png)
 
 ## Funcionalidades
 
@@ -69,6 +69,7 @@ Ganhar experiência na criação de uma aplicação web utilizando React e C#, r
 ## Estrutura do Projeto
 
 ### Front-end
+```plaintext
 src/
 ├── components/
 │ ├── Header.tsx
@@ -80,10 +81,9 @@ src/
 ├── App.tsx
 ├── index.tsx
 └── App.test.tsx
-
-
+```
 ### Back-end
-
+```plaintext
 CadastroMercadoriasAPI/
 ├── Controllers/
 │ ├── MercadoriasController.cs
@@ -93,7 +93,7 @@ CadastroMercadoriasAPI/
 │ ├── Mercadoria.cs
 ├── Program.cs
 └── appsettings.json
-
+```
 
 ## Como utilizar
 
